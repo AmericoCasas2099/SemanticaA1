@@ -21,6 +21,10 @@ namespace Semantica
             this.tipo = tipo;
             this.valor = 0;
         }
+
+        public ValidaTipo(){
+
+        }
         public void setValor(float valor)
         {
             this.valor = valor;
