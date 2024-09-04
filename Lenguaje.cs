@@ -7,6 +7,7 @@ using Sintaxis_1;
 
 namespace Semantica
 {
+    //Hola 12344555554
     public class Lenguaje : Sintaxis
     {
        private  List<Variable> listaVariables;
